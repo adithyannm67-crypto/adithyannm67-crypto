@@ -52,7 +52,7 @@
 
 <!-- Replace the links below with your own -->
 [![GitHub](https://img.shields.io/badge/GitHub-adithyannm67--crypto-181717?style=flat&logo=github)](https://github.com/adithyannm67-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithyan-nm)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adithyannm21@gmail.com)
 
 <p align="center"><i>"Make it work, make it right, make it fast."</i></p>
