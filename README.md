@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer science student who learns by building small, working things.<br>
-  Currently sharpening my data structures and front-end fundamentals.
+  Currently sharpening my data structures, web development and problem solving.
 </p>
 
 <p align="center">
@@ -13,29 +13,66 @@
 
 ## 🚀 What I'm up to
 
-- 🔭 Building small web apps with **JavaScript**, **HTML** and **CSS**
-- 🧠 Working through **Data Structures & Algorithms** in **C**
-- 🌱 Learning to write cleaner, more structured code with every project
-- 🤝 Open to collaborating on beginner-friendly web projects
+- 🔭 Building web apps with **JavaScript**, **HTML**, **CSS**, **Next.js** and **Supabase**
+- 🧠 Working through **Data Structures & Algorithms** in **C**, and solving problems on **LeetCode** and **Codeforces**
+- 🔐 Exploring post-quantum cryptography, including a messaging backend built at a hackathon
+- ⚙️ Automating small workflows with **GitHub Actions** and **Chrome extensions**
+- 🌱 Writing cleaner, more structured code with every project
 
 ## 🛠️ Tech I work with
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 Featured projects
 
+### ⭐ Featured
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Library Management System**](https://github.com/adithyannm67-crypto/LIBRARY_MANAGEMENT_SYSTEM) | A system for managing books and library records | JavaScript |
-| [**Quiz App**](https://github.com/adithyannm67-crypto/QUIZ) | Interactive quiz with questions and scoring | JavaScript |
-| [**Quiz App 2**](https://github.com/adithyannm67-crypto/Quiz-app2) | A second, reworked take on the quiz app | JavaScript |
-| [**Analogue Clock**](https://github.com/adithyannm67-crypto/ANALOGUE-CLOCK) | A live analogue clock styled with CSS | CSS |
-| [**DSA Lab**](https://github.com/adithyannm67-crypto/DSA-LAB) | Data structures lab programs written in C | C |
+| [**Peerly**](https://github.com/adithyannm67-crypto/PEARLY-CHAT) | Peer-to-peer chat where messages travel over WebRTC data channels between two browsers | Next.js, Node.js, WebRTC, Supabase |
+| [**Quantum Encryption**](https://github.com/adithyannm67-crypto/QUANTUM_ENCRYPTION) | Messaging backend that encrypts messages with post-quantum ML-KEM-768 (built for the PQC track at Quantum Hack Day Kochi) | Python, FastAPI |
+| [**Library Management System 2.0**](https://github.com/adithyannm67-crypto/LIBRARY_MANGEMENT_SYSTEM_2.0) | Admin console and member portal for managing books, loans and members | Next.js, TypeScript, Supabase |
+| [**QuizMaster**](https://github.com/adithyannm67-crypto/QUIZ) | Quiz app for JEE, GATE, KEAM and school exams, with analytics and dark mode | HTML, CSS, JavaScript |
+
+### 🌐 Web apps
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Library Management System 2.0**](https://github.com/adithyannm67-crypto/LIBRARY_MANGEMENT_SYSTEM_2.0) | Admin console and member portal for managing books, loans and members | Next.js, TypeScript, Supabase |
+| [**Dev Events**](https://github.com/adithyannm67-crypto/dev-events) | Landing page for developer events, with a MongoDB event model | Next.js, MongoDB |
+| [**QuizMaster**](https://github.com/adithyannm67-crypto/QUIZ) | Quiz app for JEE, GATE, KEAM and school exams, with analytics and dark mode | HTML, CSS, JavaScript |
+| [**Quiz App**](https://github.com/adithyannm67-crypto/quiz-app) | Online quiz with student details, timed questions and grades | HTML, CSS, JavaScript |
+| [**Analogue Clock**](https://github.com/adithyannm67-crypto/analogue-clock) | A real-time analogue clock | HTML, CSS, JavaScript |
+
+### 🔐 Security
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Quantum Encryption**](https://github.com/adithyannm67-crypto/QUANTUM_ENCRYPTION) | Messaging backend that encrypts messages with post-quantum ML-KEM-768 (built for the PQC track at Quantum Hack Day Kochi) | Python, FastAPI |
+
+### 🧠 Algorithms and problem solving
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**DSA Lab**](https://github.com/adithyannm67-crypto/DSA-LAB) | Data structures lab programs: stacks, queues, trees, graphs, sorting and more | C |
+| [**LeetCode Solutions**](https://github.com/adithyannm67-crypto/leetcode-solutions) | Solutions to LeetCode problems, synced with LeetHub | Python, C |
+| [**Codeforces Solutions**](https://github.com/adithyannm67-crypto/codeforce_solutions) | Solutions to Codeforces problems, filled in by the automation below | C |
+
+### ⚙️ Automation
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Codeforces GitHub Automation**](https://github.com/adithyannm67-crypto/codeforce-github-automation) | Chrome extension that saves Codeforces problems and submissions to GitHub | JavaScript, Chrome extension |
+| [**Supabase Keep Alive**](https://github.com/adithyannm67-crypto/supabase_automatic_unpause_workflow) | Scheduled GitHub Action that stops a Supabase project from pausing | GitHub Actions, JavaScript |
 
 ## 📊 GitHub stats
 
@@ -45,12 +82,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyannm67-crypto&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyannm67-crypto&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 📫 Let's connect
 
-<!-- Replace the links below with your own -->
 [![GitHub](https://img.shields.io/badge/GitHub-adithyannm67--crypto-181717?style=flat&logo=github)](https://github.com/adithyannm67-crypto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithyan-nm)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adithyannm21@gmail.com)
