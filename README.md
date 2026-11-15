@@ -77,10 +77,8 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyannm67-crypto&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyannm67-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- 📈 [All my repositories](https://github.com/adithyannm67-crypto?tab=repositories)
+
 
 ## 📫 Let's connect
 
