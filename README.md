@@ -82,14 +82,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyannm67-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyannm67-crypto&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## 📫 Let's connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-adithyannm67--crypto-181717?style=flat&logo=github)](https://github.com/adithyannm67-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithyan-nm)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adithyannm21@gmail.com)
+- 🐙 GitHub: [github.com/adithyannm67-crypto](https://github.com/adithyannm67-crypto)
+- 💼 LinkedIn: [linkedin.com/in/adhithyan-nm](https://www.linkedin.com/in/adhithyan-nm)
+- ✉️ Email: [adithyannm21@gmail.com](mailto:adithyannm21@gmail.com)
 
 <p align="center"><i>"Make it work, make it right, make it fast."</i></p>
