@@ -42,6 +42,7 @@
 | [**Quantum Encryption**](https://github.com/adithyannm67-crypto/QUANTUM_ENCRYPTION) | Messaging backend that encrypts messages with post-quantum ML-KEM-768 (built for the PQC track at Quantum Hack Day Kochi) | Python, FastAPI |
 | [**Library Management System 2.0**](https://github.com/adithyannm67-crypto/LIBRARY_MANGEMENT_SYSTEM_2.0) | Admin console and member portal for managing books, loans and members | Next.js, TypeScript, Supabase |
 | [**QuizMaster**](https://github.com/adithyannm67-crypto/QUIZ) | Quiz app for JEE, GATE, KEAM and school exams, with analytics and dark mode | HTML, CSS, JavaScript |
+| [**IdeaLab CET**](https://github.com/adithyannm67-crypto/idealab-cet) | Website for IdeaLab at CET, with pages for tools, components and a gallery, managed in Sanity CMS (forked from the original project) | Next.js, React, Sanity |
 
 ### 🌐 Web apps
 
